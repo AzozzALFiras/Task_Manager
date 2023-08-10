@@ -26,7 +26,7 @@ develop a mobile app called "Task Manager" that allows users to create and manag
 - Open Folder App > lib > data > model > Config > config.dart
 - HostServer = Change the link to your own link
 - Open Project to VS Code 
-- Open Termail
+- Open Terminal
 - cd App
 - flutter run
 
