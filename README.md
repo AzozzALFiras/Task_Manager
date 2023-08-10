@@ -1,4 +1,4 @@
-# Task-Manager
+# Task Manager
 develop a mobile app called "Task Manager" that allows users to create and manage their tasks.
 
 # Programming Languages
